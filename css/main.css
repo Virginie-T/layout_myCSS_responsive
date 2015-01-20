@@ -54,6 +54,16 @@ header {
 	font-weight: 100;
 }
 
+.column1 p.bootstrap a {
+	font-size: 16px;
+	float: right;
+	margin-top: -15px;
+	border-bottom: 1px dotted #821D9B;
+	text-decoration: none; 
+	color: #821D9B;
+	font-weight: 400;
+}
+
 .column1 p a:hover {
 	border-bottom: 1px dashed #821D9B;
 	font-weight: 400;
