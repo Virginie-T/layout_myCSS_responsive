@@ -1,4 +1,4 @@
-# layout_myCSS_responsive
+# Layout 2
 
 ##Virginie Trubiano 
 
